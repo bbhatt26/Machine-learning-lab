@@ -1,0 +1,3 @@
+Method,Silhouette (up),Davies-Bouldin (down),ARI (up),NMI (up),Homogeneity (up)
+K-Means,0.273,1.506,1.0,1.0,1.0
+Hierarchical (Ward),0.273,1.506,1.0,1.0,1.0

@@ -1,0 +1,5 @@
+Method,Clusters,Noise pts,Silhouette (up),Davies-Bouldin (down),Calinski-Harabasz (up)
+K-Means,5,0,0.514,0.692,396.872
+Hierarchical (Ward),5,0,0.507,0.702,389.213
+Gaussian Mixture,5,0,0.386,1.149,219.985
+DBSCAN,2,1,0.306,1.021,101.396

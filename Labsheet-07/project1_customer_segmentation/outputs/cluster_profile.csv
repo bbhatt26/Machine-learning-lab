@@ -1,0 +1,6 @@
+Cluster,Age,Annual_Income_k,Spending_Score,Purchase_Frequency,Size,Segment
+0,51.2,29.7,20.6,6.5,60,Low-value / budget customers (low-cost engagement)
+1,33.3,56.2,49.5,17.3,62,Average mid-tier customers (upsell / cross-sell)
+2,41.9,85.0,80.0,35.0,60,Premium / VIP customers (retain with exclusive perks)
+3,25.3,29.1,77.3,29.8,61,"Young enthusiastic spenders (loyalty programs, discounts)"
+4,45.1,83.7,19.5,7.1,57,Wealthy but frugal (target with personalised offers)

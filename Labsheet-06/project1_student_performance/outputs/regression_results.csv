@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2 (test),R2 (5-fold CV)
+Linear Regression,4.385,5.451,0.883,0.865
+Decision Tree,5.974,7.876,0.757,0.678
+Random Forest,5.052,6.417,0.838,0.828
+Gradient Boosting,5.143,6.596,0.829,0.824
