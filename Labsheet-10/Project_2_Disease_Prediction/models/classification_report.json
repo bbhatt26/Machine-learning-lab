@@ -1,0 +1,51 @@
+{
+  "Allergy": {
+    "precision": 0.7575757575757576,
+    "recall": 0.8928571428571429,
+    "f1-score": 0.819672131147541,
+    "support": 28.0
+  },
+  "Common Cold": {
+    "precision": 0.8235294117647058,
+    "recall": 0.717948717948718,
+    "f1-score": 0.7671232876712328,
+    "support": 39.0
+  },
+  "Flu": {
+    "precision": 0.75,
+    "recall": 0.6486486486486487,
+    "f1-score": 0.6956521739130435,
+    "support": 37.0
+  },
+  "Food Poisoning": {
+    "precision": 0.8,
+    "recall": 0.8695652173913043,
+    "f1-score": 0.8333333333333334,
+    "support": 23.0
+  },
+  "Migraine": {
+    "precision": 0.7777777777777778,
+    "recall": 0.8076923076923077,
+    "f1-score": 0.7924528301886793,
+    "support": 26.0
+  },
+  "Viral Fever": {
+    "precision": 0.5862068965517241,
+    "recall": 0.6296296296296297,
+    "f1-score": 0.6071428571428571,
+    "support": 27.0
+  },
+  "accuracy": 0.75,
+  "macro avg": {
+    "precision": 0.7491816406116608,
+    "recall": 0.7610569440279585,
+    "f1-score": 0.7525627688994478,
+    "support": 180.0
+  },
+  "weighted avg": {
+    "precision": 0.7529420927781305,
+    "recall": 0.75,
+    "f1-score": 0.7487280873362294,
+    "support": 180.0
+  }
+}

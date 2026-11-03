@@ -1,0 +1,13 @@
+COVID-19 ANALYSIS - KEY FINDINGS
+================================
+1. Total confirmed cases (all countries): 148,664,177
+   Total deaths: 1,344,708 | Total recovered: 136,915,659
+2. Highest case count: India (78,821,128 cases).
+3. Highest case-fatality rate: Italy (1.50%).
+4. Global daily-case peak on 2021-10-22 with 945,443 cases.
+5. Best vaccination coverage: Australia (95.7 doses per 100 people).
+6. Three infection waves are visible; later waves have more cases but a lower fatality
+   ratio, consistent with the effect of vaccination and better treatment.
+7. Deaths lag cases by roughly 1-2 weeks (see chart 04); cases and deaths are strongly correlated.
+8. Data cleaning: missing values interpolated per country; negative values treated as errors.
+Recommendation: prioritise vaccination in countries with low coverage and high fatality rate.
