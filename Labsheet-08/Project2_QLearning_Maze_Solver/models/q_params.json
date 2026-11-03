@@ -1,0 +1,11 @@
+{
+  "alpha": 0.1,
+  "gamma": 0.95,
+  "eps": 1.0,
+  "eps_min": 0.01,
+  "eps_decay": 0.995,
+  "episodes": 2000,
+  "learned_path_length": 18,
+  "optimal_path_length": 18,
+  "reached_goal": true
+}
